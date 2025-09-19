@@ -1,0 +1,9 @@
+numpy>=1.21
+pandas>=1.3
+# Pinned versions recommended by the project for reproducibility
+scikit-learn==1.4.2
+imbalanced-learn==0.12.3
+nltk>=3.6
+scipy>=1.7
+# joblib is used to persist the trained pipeline
+joblib==1.4.2
